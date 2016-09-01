@@ -55,7 +55,7 @@ cd catkin_ws/src		//Ve a la carpeta src de tu carpeta catkin_ws
 catkin_create_pkg agitr		//Crea un package con el nombre 'agitr'
 ```
 
-Copia los siguientes archivos en tu carpeta local catkin_ws/src/agitr
+Copia los archivos de la carpeta src/agitr de este repositorio en tu carpeta local catkin_ws/src/agitr
 ```
 package.xml
 CMakeLists.txt
